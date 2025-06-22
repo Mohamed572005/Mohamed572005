@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed572005
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Penetration Testing
+- 🌱 I’m currently learning SOC Analyst
 - 📫 How to reach me :
   Linked-in : https://www.linkedin.com/in/mohamed-el-sayed-4a4492298/
 - 😄 Pronouns: him/his
