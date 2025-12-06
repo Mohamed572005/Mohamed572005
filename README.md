@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning SOC Analyst
 - 📫 How to reach me :
-  Linked-in : https://www.linkedin.com/in/mohamed-el-sayed-4a4492298/
+  Linked-in : https://www.linkedin.com/in/mohamedelsayed-cyber-security/
 - 😄 Pronouns: him/his
 - Just a student at October 6 Uni in Egypt ;
 - Just in the beginning so if you have any tips please let me know :)
